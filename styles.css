@@ -1,0 +1,28 @@
+.content-center {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 10px;
+}
+
+.head-left {
+	width: 20%;
+}
+
+.head-right {
+	width: 30%;
+}
+
+.Stars1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.headRight {
+	display: flex;
+}
+
+.imgs {
+	border-radius: 50%;
+	height: 8vh;
+}
